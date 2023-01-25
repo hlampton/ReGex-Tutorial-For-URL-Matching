@@ -37,3 +37,5 @@ console.log(match[0]); // Outputs "http://www.example.com"
 
 ## Conclusion
 Regular expressions are a powerful tool for matching patterns in strings. In this tutorial, we learned how to use regex to match URLs in a string. This is a basic example and can be extended to match specific URL formats or make the regex more restrictive.
+
+Please note that this is a basic regex pattern and might not match all the possible URL formats, you can use various regex testers such as Regex101 to test your regex before using it in your code.
