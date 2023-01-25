@@ -28,10 +28,12 @@ http(s)://www.example.com(/path)?(?querystring)
 
 You can use the regex pattern in a variety of programming languages and libraries to match URLs in strings. Here is an example of how to use the regex pattern in JavaScript:
 
+```regexp
 let pattern = /(https?:\/\/)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/;
 let string = "Visit our website at http://www.example.com for more information.";
 let match = pattern.exec(string);
 console.log(match[0]); // Outputs "http://www.example.com"
+```
 
-Conclusion
+## Conclusion
 Regular expressions are a powerful tool for matching patterns in strings. In this tutorial, we learned how to use regex to match URLs in a string. This is a basic example and can be extended to match specific URL formats or make the regex more restrictive.
