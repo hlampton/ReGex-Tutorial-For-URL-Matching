@@ -22,7 +22,7 @@ http(s)://www.example.com(/path)?(?querystring)
 /(https?:\/\/)?(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,6}\b([-a-zA-Z0-9@:%_\+.~#?&//=]*)/
 ```
 
-**This pattern matches URLs that start with http or https, followed by an optional www. subdomain. Then it matches any combination of letters, numbers, and special characters, followed by a domain extension. It also matches any optional path and querystring.**
+**This pattern matches URLs that start with 'http' or 'https', followed by an optional 'www.' subdomain. Then it matches any combination of letters, numbers, and special characters, followed by a domain extension. It also matches any optional path and querystring.**
 
 Using the Regex
 You can use the regex pattern in a variety of programming languages and libraries to match URLs in strings. Here is an example of how to use the regex pattern in JavaScript:
