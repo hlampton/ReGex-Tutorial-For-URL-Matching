@@ -3,10 +3,10 @@ Regular expressions (regex) are a powerful tool for matching patterns in strings
 
 ## Table of Contents:
 
-- [Basic Syntax](#Basic Syntax)
-- [Matching URLs](#Matching URLs)
-- [Here is a basic regex pattern for matching URLs](#Here is a basic regex pattern for matching URLs)
-- [Using the Regex](#Using the Regex)
+- [Basic Syntax](#Basic-Syntax)
+- [Matching URLs](#Matching-URLs)
+- [Here is a basic regex pattern for matching URLs](#Here-is-a-basic-regex-pattern-for-matching-URLs)
+- [Using the Regex](#Using-the-Regex)
 - [Conclusion](#Conclusion)
 - [Author](#Author)
 - [User Story](#User-Story)
