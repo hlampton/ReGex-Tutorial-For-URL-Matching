@@ -1,11 +1,12 @@
-Regex Tutorial for URL Matching
+# Regex Tutorial for URL Matching
 Regular expressions (regex) are a powerful tool for matching patterns in strings. In this tutorial, we will learn how to use regex to match URLs.
 
-Basic Syntax
+## Basic Syntax
 The basic syntax for a regex is as follows:
 
-Copy code
+```regexp
 /pattern/modifiers
+```
 The pattern is the regular expression that you want to match, and the modifiers are optional flags that modify how the pattern is matched.
 
 Matching URLs
